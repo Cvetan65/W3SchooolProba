@@ -1,8 +1,13 @@
 const GitProba = () => {
     return ( 
         <div>
-            Hello from GitProba in Git folder!
-            Е сега нешто за повторување!
+            <p> Hello from GitProba in Git folder!</p>
+            <p>Е сега нешто за повторување!</p>
+            <p>Sega ajde uste nesto </p>
+            
+           
+            
+            
         </div>
      );
 }
