@@ -8,7 +8,7 @@ function App() {
       <div>
         <GitProba/>
          <Header/>
-        App за проба
+        App за проба на test-branch
       </div>
     </div>
   );
